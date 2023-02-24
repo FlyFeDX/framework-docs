@@ -37,7 +37,7 @@
 
 - 低代码(郝营营/谢名伟/闫志峰)
 
-  - [可视化平台-郝营营](./docs/low-code/visual-platform.md)
+  - [可视化大屏-郝营营](./docs/low-code/visual-platform.md)
   - [可视化报表-谢明伟](./docs/low-code/report-platform.md)
   - [对象管理平台-闫志峰](./docs/low-code/object-platform.md)
   - [数据中心-郝营营](./docs/low-code/baas.md)
